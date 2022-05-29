@@ -1,8 +1,7 @@
 # Towards the AI Building
 
-![Untitled](%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%B7%20c059882b614d45ab89f6c863ec68680a/Untitled.png)
-
-![Untitled](%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%B7%20c059882b614d45ab89f6c863ec68680a/Untitled%201.png)
+![Untitled](https://user-images.githubusercontent.com/57945707/170854047-ee8d6769-288a-4f23-9484-c2b26fd57ff8.png)
+![Untitled 1](https://user-images.githubusercontent.com/57945707/170854049-bcbbbf6f-4ed5-42c6-a058-bb42698e3360.png)
 
 2D Platform Game
 
@@ -17,3 +16,4 @@ Let's go to AI Hall safely, avoiding monsters and obstacles!
 1. Install Live Server from Marketplace.
 
 2. Click Go Live in index.html
+
