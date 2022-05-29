@@ -6,7 +6,7 @@
 
 
 If you eat a pinwheel, the score goes up. <br>
-Let's go to AI Hall safely, avoiding monsters and obstacles!
+Let's go to AI Building safely, avoiding monsters and obstacles!
 
 
 ---
