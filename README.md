@@ -5,7 +5,7 @@
 2D Platform Game
 
 
-If you eat a pinwheel, the score goes up.
+If you eat a pinwheel, the score goes up. <br>
 Let's go to AI Hall safely, avoiding monsters and obstacles!
 
 
