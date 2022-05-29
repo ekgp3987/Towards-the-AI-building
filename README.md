@@ -2,7 +2,7 @@
 
 ![Untitled 1](https://user-images.githubusercontent.com/57945707/170854049-bcbbbf6f-4ed5-42c6-a058-bb42698e3360.png)
 
-2D Platform Game
+2D Platform Web Game
 
 
 If you eat a pinwheel, the score goes up. <br>
